@@ -1,0 +1,3 @@
+/Users/diegolizarraga/Desktop/GalaxyExplorer/cmake-build-debug/CMakeFiles/GalaxyExplorer.dir
+/Users/diegolizarraga/Desktop/GalaxyExplorer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diegolizarraga/Desktop/GalaxyExplorer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
